@@ -76,7 +76,7 @@ cd RealTime-Trade-Simulator
 ```bash
 pip install -r requirements.txt
 ```
-3. Create a .env file in the root directory and Setup [Contact](mailto:ujjwalsaini0007+envreq@gmail.com)
+3. Create a .env file in the root directory and Setup [Contact](mailto:gayatrisingh9317@gmail.com)
 
 # Usage 🖥️
 - Run the Streamlit app:
