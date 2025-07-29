@@ -61,7 +61,7 @@ RealTime-Trade-Simulator/
 
 ## Installation 🛠️
 - First Read this [License](https://github.com/UjjwalSaini07/RealTime-Trade-Simulator/blob/main/LICENSE) & their terms then proceed.
-- Star ⭐ the [Repository](https://github.com/UjjwalSaini07/RealTime-Trade-Simulator)
+- Star ⭐ the [Repository](https://github.com/Gayatrisin123/RealTime_Trade_Simulator)
 - Fork the repository **(Optional)**
 - Project Setup:
 1. Clone the Project
