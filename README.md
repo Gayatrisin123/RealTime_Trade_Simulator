@@ -66,7 +66,7 @@ RealTime-Trade-Simulator/
 - Project Setup:
 1. Clone the Project
 ```bash
-git clone https://github.com/UjjwalSaini07/RealTime-Trade-Simulator.git
+git clone https://github.com/Gayatrisin123/RealTime_Trade_Simulator.git
 ```
 2. Navigate to the project Root directory:
 ```bash
