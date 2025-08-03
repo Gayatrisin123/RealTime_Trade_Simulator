@@ -173,7 +173,7 @@ python -m streamlit run main.py
 ## Contact 📞
 Feel free to reach out if you have any questions or suggestions!
 
-- Email: [Mail](ujjwalsaini0007@gmail.com)
+- Email: [Mail](gayatrisingh9317@gmail.com)
 - Github: [@Ujjwal Saini](https://github.com/UjjwalSaini07)
 
 ## Screenshots 📷
