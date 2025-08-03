@@ -174,7 +174,7 @@ python -m streamlit run main.py
 Feel free to reach out if you have any questions or suggestions!
 
 - Email: [Mail](gayatrisingh9317@gmail.com)
-- Github: [@Ujjwal Saini](https://github.com/UjjwalSaini07)
+- Github: [@Ujjwal Saini](https://github.com/Gayatrisin123)
 
 ## Screenshots 📷
 ### Trading Dashboard
